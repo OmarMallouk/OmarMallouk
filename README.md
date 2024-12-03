@@ -1,4 +1,4 @@
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3IwZWU5ZDR2ZGU5ZjRpY2Foc2o5ZnBoZjR6eGswb3h0MTBrN3QzMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vqxviVfqGAa14SgeiC/giphy.webp" alt="MasterHead" style="width: 100%; height: 20px"/>
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3IwZWU5ZDR2ZGU5ZjRpY2Foc2o5ZnBoZjR6eGswb3h0MTBrN3QzMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vqxviVfqGAa14SgeiC/giphy.webp" alt="MasterHead" style="width: 100%; height: 100px"/>
 
 <h1 align="center">Hi 👋, I'm Omar Mallouk</h1>
 <h3 align="center">A passionate Full-stack developer from Lebanon</h3>
