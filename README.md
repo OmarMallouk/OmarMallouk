@@ -1,5 +1,3 @@
-[![MasterHead](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3IwZWU5ZDR2ZGU5ZjRpY2Foc2o5ZnBoZjR6eGswb3h0MTBrN3QzMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vqxviVfqGAa14SgeiC/giphy.webp)](https://rishavchanda.io)
-
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3IwZWU5ZDR2ZGU5ZjRpY2Foc2o5ZnBoZjR6eGswb3h0MTBrN3QzMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vqxviVfqGAa14SgeiC/giphy.webp" alt="MasterHead" style="width: 100%;"/>
 
 <h1 align="center">Hi 👋, I'm Omar Mallouk</h1>
