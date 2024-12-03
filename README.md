@@ -1,3 +1,4 @@
+<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTg0cmxpaXp0enJyamU1ejhqYnNmYTEzOWJwN3FybmttdTJhdXNicSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/25Itcrcuwkyq3ohubJ/giphy.webp"/>
 <h1 align="center">Hi 👋, I'm Omar Mallouk</h1>
 <h3 align="center">A passionate Full-stack developer from Lebanon</h3>
 
