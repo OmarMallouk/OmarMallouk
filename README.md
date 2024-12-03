@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Omar Mallouk</h1>
-<h3 align="center">A passionate frontend developer from Lebanon</h3>
+<h3 align="center">A passionate Full-stack developer from Lebanon</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omarmallouk&label=Profile%20views&color=0e75b6&style=flat" alt="omarmallouk" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning socket management **React Js**
 
-- 📫 How to reach me via my gmail **mr.mallouk.om@gmail.com**
+- 📫 How to reach me via my gmail **omarmallouk76@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
