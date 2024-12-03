@@ -2,17 +2,17 @@
 
 <h1 align="center">Hi 👋, I'm Omar Mallouk</h1>
 <h3 align="center">A passionate Full-stack developer from Lebanon</h3>
-<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTg0cmxpaXp0enJyamU1ejhqYnNmYTEzOWJwN3FybmttdTJhdXNicSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/25Itcrcuwkyq3ohubJ/giphy.webp"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omarmallouk&label=Profile%20views&color=0e75b6&style=flat" alt="omarmallouk" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omarmallouk" alt="omarmallouk" /></a> </p>
-
-- 🔭 I’m currently working on MERN Stack [Ecommerce](https://mern-front-083k.onrender.com/)
-
-- 🌱 I’m currently learning socket management **React Js**
-
-- 📫 How to reach me via my gmail **omarmallouk76@gmail.com**
-
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <div>
+    <p>🔭 I’m currently working on MERN Stack <a href="https://mern-front-083k.onrender.com/">Ecommerce</a></p>
+    <p>🌱 I’m currently learning socket management <strong>React Js</strong></p>
+    <p>📫 How to reach me via my gmail <strong>omarmallouk76@gmail.com</strong></p>
+  </div>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTg0cmxpaXp0enJyamU1ejhqYnNmYTEzOWJwN3FybmttdTJhdXNicSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/25Itcrcuwkyq3ohubJ/giphy.webp" alt="Coding" style="width: 200px; height: auto; margin-left: 20px;">
+</div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/omar-mallouk-591696289/?originalSubdomain=lb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/omar-mallouk-591696289/" height="30" width="40" /></a>
