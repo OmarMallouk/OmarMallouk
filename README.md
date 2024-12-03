@@ -1,7 +1,7 @@
-<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTg0cmxpaXp0enJyamU1ejhqYnNmYTEzOWJwN3FybmttdTJhdXNicSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/25Itcrcuwkyq3ohubJ/giphy.webp"/>
+[![MasterHead](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3IwZWU5ZDR2ZGU5ZjRpY2Foc2o5ZnBoZjR6eGswb3h0MTBrN3QzMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vqxviVfqGAa14SgeiC/giphy.webp)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Omar Mallouk</h1>
 <h3 align="center">A passionate Full-stack developer from Lebanon</h3>
-
+<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTg0cmxpaXp0enJyamU1ejhqYnNmYTEzOWJwN3FybmttdTJhdXNicSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/25Itcrcuwkyq3ohubJ/giphy.webp"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omarmallouk&label=Profile%20views&color=0e75b6&style=flat" alt="omarmallouk" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omarmallouk" alt="omarmallouk" /></a> </p>
