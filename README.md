@@ -6,11 +6,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omarmallouk" alt="omarmallouk" /></a> </p>
 
-  <h3🔭 I’m currently working on MERN Stack [Ecommerce](https://mern-front-083k.onrender.com/)</h3
+  <h3🔭 I’m currently working on MERN Stack [Ecommerce](https://mern-front-083k.onrender.com/)</h3>
 
-- 🌱 I’m currently learning socket management **React Js**
+  <h3 🌱 I’m currently learning socket management **React Js**</h3>
 
-- 📫 How to reach me via my gmail **omarmallouk76@gmail.com**
+  <h3 📫 How to reach me via my gmail **omarmallouk76@gmail.com**</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTg0cmxpaXp0enJyamU1ejhqYnNmYTEzOWJwN3FybmttdTJhdXNicSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/25Itcrcuwkyq3ohubJ/giphy.webp"/>
 
