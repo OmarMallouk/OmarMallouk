@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omarmallouk" alt="omarmallouk" /></a> </p>
 
-  - 🔭 I’m currently working on MERN Stack [Ecommerce](https://mern-front-083k.onrender.com/)
+  <h3🔭 I’m currently working on MERN Stack [Ecommerce](https://mern-front-083k.onrender.com/)</h3
 
 - 🌱 I’m currently learning socket management **React Js**
 
