@@ -16,7 +16,7 @@
 
   <!-- Image Section -->
   <div>
-    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTg0cmxpaXp0enJyamU1ejhqYnNmYTEzOWJwN3FybmttdTJhdXNicSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/25Itcrcuwkyq3ohubJ/giphy.webp" alt="Coding" style="width: 400px; height: auto;">
+    <im align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTg0cmxpaXp0enJyamU1ejhqYnNmYTEzOWJwN3FybmttdTJhdXNicSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/25Itcrcuwkyq3ohubJ/giphy.webp" alt="Coding" style="width: 400px; height: auto;">
   </div>
 </div>
 
